@@ -1,1 +1,8 @@
 C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\bin\Debug\Søylediagram.exe.config
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\bin\Debug\Søylediagram.exe
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\bin\Debug\Søylediagram.pdb
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.Form1.resources
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.Properties.Resources.resources
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.csproj.GenerateResource.Cache
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.exe
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.pdb
