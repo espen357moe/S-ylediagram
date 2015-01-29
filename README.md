@@ -1,0 +1,2 @@
+# S-ylediagram
+Enkel søylediagramapplikasjon
