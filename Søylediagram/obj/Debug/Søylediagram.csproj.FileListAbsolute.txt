@@ -6,3 +6,4 @@ C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\
 C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.csproj.GenerateResource.Cache
 C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.exe
 C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.pdb
+C:\Users\Espen\Documents\Visual Studio 2013\Projects\S-ylediagram\Søylediagram\obj\Debug\Søylediagram.csprojResolveAssemblyReference.cache
